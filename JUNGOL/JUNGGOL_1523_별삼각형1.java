@@ -46,6 +46,5 @@ public class JUNGGOL_1523_별삼각형1 {
 		}
 		
 	}
-	
 
 }
