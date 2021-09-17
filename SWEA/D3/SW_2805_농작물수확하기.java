@@ -23,6 +23,7 @@ public class SW_농작물수확하기 {
 				char[] cs=(br.readLine()).toCharArray();
 				for(int c=0;c<N;c++) {
 					arr[r][c]=cs[c]-'0';
+					
 				}
 			}
 				
