@@ -25,7 +25,6 @@ public class JUNGGOL_1523_별삼각형1 {
 		
 	}
 	private static void star2(int n) {
-		
 		for(int i=n;i>0;i--) {
 			for(int j=0;j<i;j++)
 				System.out.print("*");
